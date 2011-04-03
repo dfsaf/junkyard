@@ -7,8 +7,12 @@
     </boolean>
   </SettingsComponent>
   <RecentFiles>
-    <RecentFiles />
-    <RecentEdits />
+    <RecentFiles>
+      <File id="7CF6C3DB-6165-4A07-9CB0-443DB92BC261/f:Program.cs" caret="272" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7CF6C3DB-6165-4A07-9CB0-443DB92BC261/f:Program.cs" caret="234" fromTop="10" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
@@ -20,4 +24,15 @@
     <NUnitInstallDir>C:\Program Files\NUnit 2.5.7\bin\net-2.0\</NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Console`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Out" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.TextWriter">
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>
